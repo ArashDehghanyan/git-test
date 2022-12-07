@@ -1,6 +1,7 @@
 # page 3
 import numpy as np
 
+
 def inc_(x):
     return x + 1
 
