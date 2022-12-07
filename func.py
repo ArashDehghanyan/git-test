@@ -5,5 +5,5 @@ from mod3 import inc_
 
 if __name__ == 'main':
     x = 15
-    y = double_(inc_(halve(x)))
+    y = double_((halve(x)))
     print(y)
